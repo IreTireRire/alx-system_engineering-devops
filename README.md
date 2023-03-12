@@ -1,3 +1,1 @@
-this is me 
-
-
+Shell Basics Readme
